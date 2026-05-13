@@ -1,0 +1,13 @@
+shape_id,category,from,to,payout_percentage
+tacloban_inner,Below Cat 1,0,74,0.00
+tacloban_inner,Cat 1,74,96,0.20
+tacloban_inner,Cat 2,96,111,0.40
+tacloban_inner,Cat 3,111,130,0.60
+tacloban_inner,Cat 4,130,157,0.80
+tacloban_inner,Cat 5,157,999,1.00
+tacloban_outer,Below Cat 1,0,74,0.00
+tacloban_outer,Cat 1,74,96,0.10
+tacloban_outer,Cat 2,96,111,0.20
+tacloban_outer,Cat 3,111,130,0.30
+tacloban_outer,Cat 4,130,157,0.40
+tacloban_outer,Cat 5,157,999,0.50

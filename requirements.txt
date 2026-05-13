@@ -1,0 +1,9 @@
+streamlit>=1.32.0
+pandas>=2.0.0
+numpy>=1.26.0
+requests>=2.31.0
+shapely>=2.0.0
+geojson>=3.0.0
+pydeck>=0.8.0
+plotly>=5.18.0
+openpyxl>=3.1.0

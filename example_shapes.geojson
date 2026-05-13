@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "shape_id": "tacloban_box",
+        "description": "30 km x 30 km box centred on Tacloban, Leyte, Philippines"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [124.862, 11.114],
+            [125.138, 11.114],
+            [125.138, 11.386],
+            [124.862, 11.386],
+            [124.862, 11.114]
+          ]
+        ]
+      }
+    }
+  ]
+}

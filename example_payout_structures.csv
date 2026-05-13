@@ -1,0 +1,7 @@
+shape_id,category,from,to,payout_percentage
+tacloban_box,Below Cat 1,0,74,0.00
+tacloban_box,Cat 1,74,96,0.20
+tacloban_box,Cat 2,96,111,0.40
+tacloban_box,Cat 3,111,130,0.60
+tacloban_box,Cat 4,130,157,0.80
+tacloban_box,Cat 5,157,999,1.00

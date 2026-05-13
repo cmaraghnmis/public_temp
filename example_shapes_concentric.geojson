@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "shape_id": "tacloban_inner",
+        "description": "15 km x 15 km inner box centred on Tacloban, Leyte, Philippines"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [124.931, 11.182],
+            [125.069, 11.182],
+            [125.069, 11.318],
+            [124.931, 11.318],
+            [124.931, 11.182]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "shape_id": "tacloban_outer",
+        "description": "30 km x 30 km outer box centred on Tacloban, Leyte, Philippines"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [124.862, 11.114],
+            [125.138, 11.114],
+            [125.138, 11.386],
+            [124.862, 11.386],
+            [124.862, 11.114]
+          ]
+        ]
+      }
+    }
+  ]
+}
